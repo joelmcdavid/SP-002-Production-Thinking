@@ -58,6 +58,14 @@ By the end of this repository you will be able to:
 
 ---
 
-## Next Stage
+---
 
-➡️ SP-003 Troubleshooting
+## Continue Your Journey
+
+⬅️ Previous Stage: [SP-001 Foundations](https://github.com/joelmcdavid/SP-001-Foundations)
+
+➡️ Next Stage: [SP-003 Troubleshooting](https://github.com/joelmcdavid/SP-003-Troubleshooting)
+
+Production engineers build systems.
+
+Troubleshooters keep them alive.
